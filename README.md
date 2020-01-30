@@ -1,6 +1,16 @@
 # Azure-Notes
 A list of usefull links, url, references, docs
 
+## MS Learn
+https://docs.microsoft.com/en-us/learn/
+
+### Webinars
+https://techcommunity.microsoft.com/t5/security-privacy-compliance/security-community-webinars/m-p/927888
+
+### Tips for learning Azure in the new year
+https://azure.microsoft.com/en-us/blog/tips-for-learning-azure-in-the-new-year/
+
+
 ## ZeroTrust
 ### Implementing a Zero Trust security model at Microsoft
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3w93r
@@ -30,8 +40,15 @@ c.	https://github.com/microsoft/MDATP-PowerBI-Templates
 https://docs.microsoft.com/en-us/windows/security/threat-protection/device-control/control-usb-devices-using-intune
 
 ## Folder exclusions for some windows databases
-https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-server-exclusions-windows-defender-antivirus 
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-antivirus/configure-server-exclusions-windows-defender-antivirus
 
+# Azure Updates
+https://azure.microsoft.com/en-us/updates/
+
+# Azure Monitor
+
+## Temprorary
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings 
 
 
 
