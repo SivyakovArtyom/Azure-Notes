@@ -46,11 +46,12 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defe
 https://azure.microsoft.com/en-us/updates/
 
 # Azure Monitor
-
 ## Temprorary
 https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings 
 
-
+# Security
+## Impersonating Office 365 Users With Mimikatz
+https://www.dsinternals.com/en/impersonating-office-365-users-mimikatz/
 
 
 
