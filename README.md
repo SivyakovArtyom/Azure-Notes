@@ -65,3 +65,28 @@ https://www.dsinternals.com/en/impersonating-office-365-users-mimikatz/
 -	Azure Automation: https://docs.microsoft.com/en-us/azure/automation/
 
 The runbook to watch for event IDs in an Azure Virtual Machine, can be found here https://gallery.technet.microsoft.com/scriptcenter/Sample-monitor-runbook-to-28b5ad6e#content. The PScommand for pulling event id’s is Get-EventLog.
+
+AKS planning:
+https://techcommunity.microsoft.com/t5/premier-field-engineering/azure-kubernetes-service-cluster-capacity-planning/ba-p/1474990
+
+1.	Azure AD Built-in Role assignments:https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles
+2.	Azure AD Deployment Plans: https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-deployment-plans 
+3.	Azure Architecture: https://docs.microsoft.com/en-us/azure/architecture/ 
+4.	Azure Architecture - Naming Conventions: https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions 
+5.	Azure Updates (released, preview, planned): https://azure.microsoft.com/en-us/updates/
+6.	Log Analytics playground: https://portal.loganalytics.io/demo 
+7.	SysInternals Tool kit: https://docs.microsoft.com/en-us/sysinternals/ 
+8.	3rd party site – tests, info, etc: http://www.azurespeed.com/ 
+9.	Azure Certification & Exams: https://www.microsoft.com/en-us/learning/azure-exams.aspx
+10.	Azure Certification self-assessment aids (and great portal for Azure stuff😊): https://build5nines.com/free-oss-exam-self-assessment-tool/
+11.	Azure Certification Data Sheet (PDF file): https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+12.	Ultimate Azure Resources repository: aka.ms/Azure/Shortcuts 
+13.	Azure Policy: https://docs.microsoft.com/en-us/azure/governance/policy/ 
+14.	Azure Blueprint Samples: https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/ 
+15.	Podcasts, blogs, sites: Azure Friday, Azure Mechanics
+16.	Presentation files, materials and additional reading: 
+•	AZ 500 slides: https://tinyurl.com/yc3azjoa 
+
+PS reporting on MFA users scripts:
+1.	https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-reporting#powershell-reporting-on-users-registered-for-mfa
+2.	https://gallery.technet.microsoft.com/Export-Office-365-Users-81747c73
