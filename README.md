@@ -53,10 +53,15 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-setting
 ## Impersonating Office 365 Users With Mimikatz
 https://www.dsinternals.com/en/impersonating-office-365-users-mimikatz/
 
+# AZ-500
+## References:
+-	Microsoft Security Development Lifecycle: https://www.microsoft.com/en-us/securityengineering/sdl/
+-	Microsoft Binskim: https://github.com/Microsoft/binskim
+-	Attack surface analyzer: https://www.microsoft.com/en-us/download/details.aspx?id=58105
+-	Microsoft Security Response Center: https://www.microsoft.com/en-us/msrc?rtc=1
+-	Azure Security Center Github repo: https://github.com/Azure/Azure-Security-Center
+-	WinSrv AD events: https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor
+-	CIS Benchmark Azure: https://www.cisecurity.org/benchmark/azure/
+-	Azure Automation: https://docs.microsoft.com/en-us/azure/automation/
 
-
-
-
-
-
-
+The runbook to watch for event IDs in an Azure Virtual Machine, can be found here https://gallery.technet.microsoft.com/scriptcenter/Sample-monitor-runbook-to-28b5ad6e#content. The PScommand for pulling event id’s is Get-EventLog.
